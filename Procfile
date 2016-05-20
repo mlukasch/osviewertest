@@ -1,1 +1,1 @@
-web: sh ./deployHeroku.sh
+web: node index.js
