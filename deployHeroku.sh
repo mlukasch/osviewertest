@@ -1,4 +1,2 @@
-export PORT=443
-npm install
-npm run build
+export PORT=5000
 npm start
